@@ -5,6 +5,8 @@ After cloning the repo, run the below line after creating and activating venv us
 
 pip3 install -r requirements.txt
 
+I have added db.sqlite3 file (database file), so that it is easy to test using some existing data.
+
 It also creates a visualisation using line chart to plot the closing price of 6 companies closing stockprice.
 
 Steps (For local):
