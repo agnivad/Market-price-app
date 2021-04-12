@@ -1,6 +1,10 @@
 Market Price App is a Django Application which integrates MarketStack API to fetch the End of the Day stock price data of 6 companies and store in Database.
 It runs a cronjob which runs a task from Tuesday to Saturday at 4:30am HKT to fetch the stock price data and store it in DB.
 
+After cloning the repo, run the below line after creating and activating venv using python 3
+
+pip3 install -r requirements.txt
+
 It also creates a visualisation using line chart to plot the closing price of 6 companies closing stockprice.
 
 Steps (For local):
