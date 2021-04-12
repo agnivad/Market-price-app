@@ -21,6 +21,7 @@ from MarketPrice.models import StockPrice
 StockPrice.objects.highest_increment()
 
 The test cases of the model manager method can be excuted using:
+
 Execute: python manage.py test
 
 
