@@ -14,7 +14,7 @@ A model manager method highest_increment is implement which returns the symbol (
 
 Steps:
 1. Execute: python manage.py shell
-2. Inside shell excute the below line one by one: 
+2. Inside shell excute the below lines one after another: 
 
 from MarketPrice.models import StockPrice
 
