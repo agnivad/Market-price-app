@@ -5,5 +5,7 @@ It also creates a visualisation using line chart to plot the closing price of 6 
 Steps (For local):
 1. Execute: python manage.py runserver
 2. Open the link in browser: http://127.0.0.1:8000/chart
+
+
 ![Screenshot from 2021-04-13 02-37-38](https://user-images.githubusercontent.com/25360174/114444397-69de2a80-9c01-11eb-9080-d34cf186d035.png)
  
