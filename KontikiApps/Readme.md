@@ -17,6 +17,7 @@ Steps:
 2. Inside shell excute the below line one by one: 
 
 from MarketPrice.models import StockPrice
+
 StockPrice.objects.highest_increment()
 
 The test cases of the model manager method can be excuted using:
